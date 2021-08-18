@@ -13,7 +13,8 @@
 
 ---
 [Documenting My Programming Journey on Hashnode](https://footprints.hashnode.dev/)
-<img src="https://user-images.githubusercontent.com/28518667/129918504-a981609c-1098-433f-8570-bbef6cea6b91.png"/>
+<img src="https://user-images.githubusercontent.com/28518667/129919138-fb2c30c9-e865-4037-9d7c-afdc234bbe28.png"/>
+
 
 
 ---
