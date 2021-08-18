@@ -4,16 +4,17 @@
 
 ### Projects Worked On
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Task Timer - Created With ReactJs](https://github.com/Mr-Georgie/Task-Timer)
+<img src="https://user-images.githubusercontent.com/28518667/128606512-8623ea70-9d6f-42ae-b1a5-3b9c7f6321a4.gif"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[AnyLease API - Created With Django Rest Framework](https://github.com/Mr-Georgie/AnyLease-API-Zuri)
+<img src="https://user-images.githubusercontent.com/28518667/129388849-971ab25f-0f82-49a2-8465-a23294a130e5.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Documenting My Programming Journey on Hashnode](https://footprints.hashnode.dev/)
+<img src="https://user-images.githubusercontent.com/28518667/129918504-a981609c-1098-433f-8570-bbef6cea6b91.png"/>
+
 
 ---
 
